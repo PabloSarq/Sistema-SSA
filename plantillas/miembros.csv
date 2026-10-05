@@ -1,0 +1,4 @@
+﻿nombre;email_gmail;perfil;tipo_relacion;fecha_ingreso;fin_periodo_prueba;valor_hora_ars;computa_presentismo;lun_desde;lun_hasta;lun_almuerzo;mar_desde;mar_hasta;mar_almuerzo;mie_desde;mie_hasta;mie_almuerzo;jue_desde;jue_hasta;jue_almuerzo;vie_desde;vie_hasta;vie_almuerzo
+EJEMPLO Ana Gómez;ana.gomez@gmail.com;profesional;dependencia;01/03/2024;;15000;si;09:00;18:00;si;09:00;18:00;si;09:00;18:00;si;09:00;18:00;si;09:00;18:00;si
+EJEMPLO Bruno Paz;bruno.paz@gmail.com;manager;monotributo;10/02/2022;;18000;si;08:00;18:00;si;08:00;18:00;si;09:00;17:00;si;09:00;17:00;si;09:00;18:00;si
+EJEMPLO Carla Díaz;carla.diaz@gmail.com;profesional;freelance;15/08/2026;15/11/2026;12000;no;09:00;13:00;no;14:00;18:00;no;09:00;13:00;no;;;;;;

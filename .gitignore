@@ -1,0 +1,14 @@
+# Sistema operativo / Google Drive
+desktop.ini
+Thumbs.db
+.DS_Store
+
+# Datos reales del estudio (nombres, valores hora, honorarios): nunca al repo
+datos-privados/
+
+# Archivos de tipografía con licencia
+*.rar
+
+# Desarrollo
+node_modules/
+.env*

@@ -1,0 +1,9 @@
+﻿codigo;nombre;cliente;estado;fecha_inicio;etapa;honorarios_ars;fecha_cotizacion;estado_etapa
+EJEMPLO P-001;Casa Ruiz;Familia Ruiz;activo;01/06/2026;Anteproyecto;4500000;15/05/2026;terminada
+EJEMPLO P-001;Casa Ruiz;Familia Ruiz;activo;01/06/2026;Proyecto Municipal;3000000;15/05/2026;en_curso
+EJEMPLO P-001;Casa Ruiz;Familia Ruiz;activo;01/06/2026;Proyecto Ejecutivo;7500000;15/05/2026;pendiente
+EJEMPLO P-002;Edificio Belgrano;Desarrollos SRL;activo;01/02/2026;Factibilidad;2000000;10/01/2026;terminada
+EJEMPLO P-002;Edificio Belgrano;Desarrollos SRL;activo;01/02/2026;Masterplan;5000000;10/01/2026;terminada
+EJEMPLO P-002;Edificio Belgrano;Desarrollos SRL;activo;01/02/2026;Anteproyecto;9000000;10/01/2026;terminada
+EJEMPLO P-002;Edificio Belgrano;Desarrollos SRL;activo;01/02/2026;Proyecto Municipal;6000000;10/01/2026;terminada
+EJEMPLO P-002;Edificio Belgrano;Desarrollos SRL;activo;01/02/2026;Proyecto Ejecutivo;15000000;10/01/2026;en_curso

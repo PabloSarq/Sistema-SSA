@@ -1,0 +1,9 @@
+﻿parametro;valor;descripcion
+monto_presentismo;;Monto fijo en pesos, igual para todos (COMPLETAR)
+max_cargas_tardias;3;Con esta cantidad de cargas tardías en el mes se pierde el presentismo
+umbral_horas_extra_mes;20;Al superarlo se notifica al manager
+horario_regular;09:00-18:00;Horario por defecto del estudio
+almuerzo_horas;1;Horas de almuerzo incluidas en el horario regular
+meses_periodo_prueba;3;Duración por defecto del período de prueba
+multiplicador_jornada_completa;1,5;Hora extra = valor hora x este número (40 h semanales)
+multiplicador_jornada_reducida;1,25;Hora extra = valor hora x este número (menos de 40 h)
